@@ -11,6 +11,8 @@ You can start the server using this Python command:
 
 python producer_server.py
 
+### Data
+Download data from Kaggle [here](https://www.kaggle.com/san-francisco/sf-police-calls-for-service-and-incidents)
 ### Step 1
 The first step is to build a simple Kafka server.
 Complete the server in data_producer/producer_server.py.
